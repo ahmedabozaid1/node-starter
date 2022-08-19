@@ -1,0 +1,29 @@
+{
+  "name": "node-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmedabozaid1/node-starter.git"
+  },
+  "author": "ahmedabozaid1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahmedabozaid1/node-starter/issues"
+  },
+  "homepage": "https://github.com/ahmedabozaid1/node-starter#readme",
+  "dependencies": {
+    "@prisma/client": "^4.2.1",
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "express-async-handler": "^1.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.18.1",
+    "prisma": "^4.2.1"
+  }
+}
