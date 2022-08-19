@@ -1,6 +1,6 @@
 # node-starter
 
-basic node.js starter app with repo design pattern
+basic node.js starter app with repo design pattern and sql db
 
 ## How to use
 
